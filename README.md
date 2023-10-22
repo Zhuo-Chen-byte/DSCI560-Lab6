@@ -1,5 +1,5 @@
 # DSCI560-Lab6
-1. Initating this system
+1. Initating this system by
      ```
      python app.py
      ```
